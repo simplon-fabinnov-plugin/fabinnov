@@ -1,0 +1,17 @@
+On va travailler pour faire une extension firefox pour la fabrique à innovation
+
+infos ici :
+https://developer.mozilla.org/en-US/Add-ons
+
+Cahier des charges :
+http://www.manager-go.com/gestion-de-projet/dossiers-methodes/elaborer-un-cdc
+Définition
+
+Un petit rappel pour commencer : un cahier des charges a pour fonction de formaliser un besoin afin que ce dernier soit compris par l'ensemble des acteurs impliqués dans le projet. Il précise les spécifications attendues. 
+
+1) Contexte et définition du problème
+Faire un plugin qui marche : un MODULE
+informer les membres des nouveautés
+
+on pourrai utiliser l'API io
+2) 
