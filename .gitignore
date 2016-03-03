@@ -1,3 +1,4 @@
 le-site/
 telechargement
 images/*.xcf
+.gitignore
