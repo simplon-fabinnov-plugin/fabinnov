@@ -19,12 +19,20 @@ La fabrique a innovation est un site internet sur lequel :
 
 La finalite est d'obtenir l'industrialisation puis la commercialisation
 du produit a l'issue de laquelle les participants a la conception obtiennent
+=======
+- Les idees sont discutees et notees par les membres de la communaute
+- et les plus prometteuses debutent un processus de creation auquel
+- chaque membre peut participer.
+
+La finalite est d'obtenir l'industrialisation puis la commercialisation
+du produit a l'issue de laquelle les participants a la conception obtiennent
 des royalties sur chaque vente realisee.
 
 **Les utilisateurs doivent etre connectes**
 
 On va travailler pour faire une **extension firefox** pour *la fabrique à innovation*
 
+<<<<<<< HEAD
 >*infos ici :*
 >https://developer.mozilla.org/en-US/Add-ons  
 >https://wiki.mozilla.org/WebExtensions
