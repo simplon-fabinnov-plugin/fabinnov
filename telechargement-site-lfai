@@ -1,0 +1,4 @@
+#! /bin/bash
+
+wget   --tries=5   --no-clobber   --continue   --no-host-directories   --html-extension   --recursive   --level=inf   --convert-links   --backup-converted   --page-requisites   --no-parent   --restrict-file-names=windows   --random-wait   --no-check-certificate http://lafabriqueainnovations.com/
+
